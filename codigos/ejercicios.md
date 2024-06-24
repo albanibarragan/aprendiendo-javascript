@@ -7,3 +7,5 @@
 3. Identificar si un número es par o impar
 
 4. Calcular el IMC
+
+5. piedra papel o tijera
